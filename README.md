@@ -5,6 +5,6 @@
 - 🤔 I’m looking for help with internships
 - 💬 Ask me about Python3 or any tech related stuff
 - 📫 How to reach me: twitter - @AshishLulla28
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I do a lot of Things
 
