@@ -1,10 +1,9 @@
 ### Hola I'm Ashish Lulla ! 👋
 
 - 🔭 I’m currently working on Python3
-- 🌱 I’m currently learning Frontend 
-- 🤔 I’m looking for help with internships
+- 🌱 I’m currently learning Javascript 
 - 💬 Ask me about Python3 or any tech related stuff
-- 📫 How to reach me: twitter - @AshishLulla28
+- 📫 How to reach me: lullaashish2807@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I do a lot of Things
 
