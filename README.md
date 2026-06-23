@@ -1,9 +1,10 @@
-### Hola I'm Ashish Lulla ! 👋
+### Hi there, I'm Ashish Lulla 👋
 
-- 🔭 I’m currently working on Javascript
-- 🌱 I’m currently learning Full Stack Development
-- 💬 Ask me about Python3 or any tech related stuff
-- 📫 How to reach me: lullaashish2807@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:  I do a lot of Things
-
+* 💻 ASP.NET Core Developer passionate about building scalable Web APIs
+* 🌱 Currently learning Full Stack Development (ASP.NET Core, Angular, SQL Server)
+* ☁️ AWS Cloud Practitioner Certified and exploring cloud technologies
+* 🚀 Building projects focused on Clean Architecture, REST APIs, Authentication, and Database Design
+* 💬 Ask me about C#, ASP.NET Core, SQL Server, Entity Framework Core, and Web API Development
+* 📚 Currently preparing for software development and backend engineering roles
+* 📫 Reach me at: [lullaashish2807@gmail.com](mailto:lullaashish2807@gmail.com)
+* ⚡ Fun Fact: I enjoy turning ideas into real-world applications and continuously improving my development skills.
