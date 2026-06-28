@@ -1,6 +1,6 @@
 ### Hi there, I'm Ashish Lulla 👋
 
-* 💻 ASP.NET Core Developer passionate about building scalable Web APIs
+* 💻 ASP.NET Core Developer passionate about building scalable Web APPs, APIs
 * 🌱 Currently learning Full Stack Development (ASP.NET Core, Angular, SQL Server)
 * ☁️ AWS Cloud Practitioner Certified and exploring cloud technologies
 * 🚀 Building projects focused on Clean Architecture, REST APIs, Authentication, and Database Design
