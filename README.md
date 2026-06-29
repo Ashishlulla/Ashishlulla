@@ -5,6 +5,6 @@
 * ☁️ AWS Cloud Practitioner Certified and exploring cloud technologies
 * 🚀 Building projects focused on Clean Architecture, REST APIs, Authentication, and Database Design
 * 💬 Ask me about C#, ASP.NET Core, SQL Server, Entity Framework Core, and Web API Development
-* 📚 Currently preparing for software development and backend engineering roles
+* 📚 Currently workinf on  Enterprise software Healthcare App for Managing Hosiptals
 * 📫 Reach me at: [lullaashish2807@gmail.com](mailto:lullaashish2807@gmail.com)
 * ⚡ Fun Fact: I enjoy turning ideas into real-world applications and continuously improving my development skills.
