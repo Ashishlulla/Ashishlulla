@@ -6,5 +6,5 @@
 * 🚀 Building projects focused on Clean Architecture, REST APIs, Authentication, and Database Design
 * 💬 Ask me about C#, ASP.NET Core, SQL Server, Entity Framework Core, and Web API Development
 * 📚 Currently working on  Enterprise software Healthcare App for Managing Multispeciality Hosiptals
-* 📫 Reach me at: [lullaashish2807@gmail.com](mailto:ashishlulla.work@gmail.com)
+* 📫 Reach me at: [ashishlulla.work@gmail.com](mailto:ashishlulla.work@gmail.com)
 * ⚡ Fun Fact: I enjoy turning ideas into real-world applications and continuously improving my development skills.
